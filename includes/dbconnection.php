@@ -1,7 +1,7 @@
 <?php
 $host = '192.168.0.12';
-$user = 'root';
-$password = 'P@ssw0rd';
+$user = 'mizzat-app1';
+$password = 'AQpQLwd8KLNN5DeQNwGt';
 $database = 'fypdb';
 
 // Create connection
